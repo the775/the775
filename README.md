@@ -23,12 +23,11 @@ $ --metadata
   </td>
     <td style="vertical-align: top;">
          <pre>
-        <img src="https://github-readme-stats.vercel.app/api?username=eduardotashiro&show_icons=true&bg_color=00000000&text_color=c9d1d9"alt="Stats" max-width: height="150px"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=eduardotashiro&show_icons=true&bg_color=00000000&text_color=c9d1d9"alt="Stats"  max-width: height="150px"/>
            </pre>
-  <hr>
                <pre>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardotashiro&show_icons=true&bg_color=00000000&text_color=c9d1d9&layout=compact&hide_progress=true&card_width=440&langs_count=6" alt="Stats" max-width: height="115px"/>
-                            </pre>
+ </pre>
     </td>
-  </tr>
+  </tr>          
 </table>
