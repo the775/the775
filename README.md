@@ -1,9 +1,9 @@
 <table>
   <tr>
-    <td width="50%" style="vertical-align: top; padding-right: 20px;">
-      <pre>
+    <td width="5%">
+    <pre style="text-decoration": none;>
 $ --metadata
-        '..''.-hdhyo/:.'.
+<a href="https://en.wikipedia.org/wiki/Ken_Thompson#Career_and_research" style="text-decoration": none;>        '..''.-hdhyo/:.'.
      .-:--ohmNNMMMMMMNmy/-
    '/yh//dyssyydmDDMMYYYYdos/.
 '.':::::::\;;\+\++:::::''/o/:?.
@@ -18,15 +18,16 @@ $ --metadata
     -ysy-/- ./.-:::-+y-asyoso.
     '/s  -/+os+oyhdyohds:.-+yh/'
      '.-;/-,    '-ymMMNmssso:y/so
-                  /::+-:::/:--;;/
-      </pre>
+                  /::+-:::/:--;;/</pre>
     </td>
-    <td width="50%" style="vertical-align: top;">
-<pre style="overflow: hidden; white-space: pre-wrap; word-wrap: break-word; margin: 0; padding: 10px; font-size: 10px; line-height: 1.2;">
-      <img src="https://github-readme-stats.vercel.app/api?username=eduardotashiro&show_icons=true&bg_color=00000000&text_color=c9d1d9" alt="Stats" height="150px"/>
-                              </pre>
-      <hr>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardotashiro&show_icons=true&bg_color=00000000&text_color=c9d1d9&layout=compact&hide_progress=true&card_width=440&langs_count=6" alt="Stats" height="115px"/>
+  </td>
+    <td width="50%">
+      <div style="background-color: #0d1117; padding: 20px; border-radius: 6px; border: 1px solid #30363d">
+        <img src="https://github-readme-stats.vercel.app/api?username=eduardotashiro&show_icons=true&bg_color=00000000&text_color=c9d1d9"alt="Stats" width="100%" height="200px" style="display: block;"/>
+      </div>
+      <div style="background-color: #0d1117; padding: 20px; border-radius: 6px; border: 1px solid #30363d;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardotashiro&show_icons=true&bg_color=00000000&text_color=c9d1d9&layout=compact&hide_progress=true&card_width=440&langs_count=6" alt="Stats" width="100%" height="150px" style="display: block;"/>
+      </div>
     </td>
-  </tr>          
+  </tr>
 </table>
