@@ -22,7 +22,7 @@ $ --metadata
     </td>
   </td>
     <td>
-         <pre>
+         <pre style="text-align: center;>
         <img src="https://github-readme-stats.vercel.app/api?username=eduardotashiro&show_icons=true&bg_color=00000000&text_color=c9d1d9"alt="Stats" max-width: height="150px" style="display: block; margin-bottom: 200px"/>
            </pre>
   <hr>
