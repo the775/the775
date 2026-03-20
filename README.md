@@ -1,9 +1,9 @@
 <table>
   <tr>
-    <td>
-   <pre>
+    <td width="50%" style="vertical-align: top; padding-right: 20px;">
+      <pre>
 $ --metadata
-<a href="https://en.wikipedia.org/wiki/Ken_Thompson#Career_and_research" style="text-decoration": none;>        '..''.-hdhyo/:.'.
+        '..''.-hdhyo/:.'.
      .-:--ohmNNMMMMMMNmy/-
    '/yh//dyssyydmDDMMYYYYdos/.
 '.':::::::\;;\+\++:::::''/o/:?.
@@ -18,16 +18,15 @@ $ --metadata
     -ysy-/- ./.-:::-+y-asyoso.
     '/s  -/+os+oyhdyohds:.-+yh/'
      '.-;/-,    '-ymMMNmssso:y/so
-                  /::+-:::/:--;;/</pre>
+                  /::+-:::/:--;;/
+      </pre>
     </td>
-  </td>
-    <td style="vertical-align: top;">
-         <pre>
-        <img src="https://github-readme-stats.vercel.app/api?username=eduardotashiro&show_icons=true&bg_color=00000000&text_color=c9d1d9"alt="Stats"  max-width: height="150px"/>
-           </pre>
-               <pre>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardotashiro&show_icons=true&bg_color=00000000&text_color=c9d1d9&layout=compact&hide_progress=true&card_width=440&langs_count=6" alt="Stats" max-width: height="115px"/>
- </pre>
+    <td width="50%" style="vertical-align: top;">
+<pre style="overflow: hidden; white-space: pre-wrap; word-wrap: break-word; margin: 0; padding: 10px; font-size: 10px; line-height: 1.2;">
+      <img src="https://github-readme-stats.vercel.app/api?username=eduardotashiro&show_icons=true&bg_color=00000000&text_color=c9d1d9" alt="Stats" height="150px"/>
+                              </pre>
+      <hr>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardotashiro&show_icons=true&bg_color=00000000&text_color=c9d1d9&layout=compact&hide_progress=true&card_width=440&langs_count=6" alt="Stats" height="115px"/>
     </td>
   </tr>          
 </table>
