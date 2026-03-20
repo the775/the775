@@ -23,7 +23,7 @@ $ --metadata
     </td>
     <td valign="top" width="100%">
       <div style="margin-bottom: 100pc;">
-        <img src="https://github-readme-stats.vercel.app/api?username=eduardotashiro&show_icons=true&bg_color=00000000&text_color=c9d1d9" alt="Stats" width="100%" height="162px"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=eduardotashiro&show_icons=true&bg_color=00000000&text_color=c9d1d9" alt="Stats" width="100%" height="144px"/>
       </div>
     <br><br><p></p>
  <div>
