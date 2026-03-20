@@ -1,7 +1,11 @@
 <table>
   <tr>
     <td>
-    <pre style="text-decoration": none;>
+   <pre style="
+  margin: 100;
+  padding: 0;
+  line-height: 1.1;
+">
 $ --metadata
 <a href="https://en.wikipedia.org/wiki/Ken_Thompson#Career_and_research" style="text-decoration": none;>        '..''.-hdhyo/:.'.
      .-:--ohmNNMMMMMMNmy/-
