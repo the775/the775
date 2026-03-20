@@ -22,10 +22,9 @@ $ --metadata
     </td>
   </td>
     <td width="100%">
-      <div>
-        <img src="https://github-readme-stats.vercel.app/api?username=eduardotashiro&show_icons=true&bg_color=00000000&text_color=c9d1d9"alt="Stats" width="100%" height="162px" margin-bottom: 100%;/>
+      <div height="300px" >
+        <img src="https://github-readme-stats.vercel.app/api?username=eduardotashiro&show_icons=true&bg_color=00000000&text_color=c9d1d9"alt="Stats" width="100%" height="162px"/>
       </div>
-      <pre></pre>
       <div>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardotashiro&show_icons=true&bg_color=00000000&text_color=c9d1d9&layout=compact&hide_progress=true&card_width=440&langs_count=6" alt="Stats" width="100%" height="124px" style="display: block;"/>
       </div>
