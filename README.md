@@ -27,7 +27,7 @@ $ --metadata
       </div>
     <br><br><p></p>
  <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardotashiro&show_icons=true&bg_color=00000000&text_color=c9d1d9&layout=compact&hide_progress=true&card_width=440&langs_count=6" alt="Stats" width="100%" height="116px" style="display: block;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardotashiro&show_icons=true&bg_color=00000000&text_color=c9d1d9&layout=compact&hide_progress=true&card_width=440&langs_count=6" alt="Stats" width="100%" height="147px" style="display: block;"/>
 </div>
     </td>
   </tr>
