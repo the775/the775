@@ -21,7 +21,7 @@ $ --metadata
                   /::+-:::/:--;;/</pre>
     </td>
   </td>
-    <td width="50%">
+    <td width="70%">
       <div>
         <img src="https://github-readme-stats.vercel.app/api?username=eduardotashiro&show_icons=true&bg_color=00000000&text_color=c9d1d9"alt="Stats" width="100%" style="display: block;"/>
       </div>
