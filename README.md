@@ -1,11 +1,7 @@
 <table>
   <tr>
     <td>
-   <pre style="
-  margin: 100;
-  padding: 0;
-  line-height: 1.1;
-">
+   <pre>
 $ --metadata
 <a href="https://en.wikipedia.org/wiki/Ken_Thompson#Career_and_research" style="text-decoration": none;>        '..''.-hdhyo/:.'.
      .-:--ohmNNMMMMMMNmy/-
@@ -23,15 +19,16 @@ $ --metadata
     '/s  -/+os+oyhdyohds:.-+yh/'
      '.-;/-,    '-ymMMNmssso:y/so
                   /::+-:::/:--;;/</pre>
-  <p></p>
-  <p></p>
-  <p></p>
     </td>
   </td>
     <td>
+         <pre>
         <img src="https://github-readme-stats.vercel.app/api?username=eduardotashiro&show_icons=true&bg_color=00000000&text_color=c9d1d9"alt="Stats" max-width: height="150px" style="display: block; margin-bottom: 200px"/>
+           </pre>
   <hr>
+               <pre>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardotashiro&show_icons=true&bg_color=00000000&text_color=c9d1d9&layout=compact&hide_progress=true&card_width=440&langs_count=6" alt="Stats" max-width: height="115px" style="display: block; "/>
+                            </pre>
     </td>
   </tr>
 </table>
